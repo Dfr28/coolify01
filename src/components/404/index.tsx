@@ -48,8 +48,7 @@ const NotFound = () => {
 						</h1>
 
 						<p className='mx-auto mb-10 w-full max-w-[355px]'>
-							The page you are looking for doesn’t exist. Here are some helpful
-							links:
+							La página que estás buscando no existe. Aquí tienes algunas opciones para volver a la página de inicio o contactar con el soporte.
 						</p>
 
 						<div className='flex flex-wrap items-center justify-center gap-3'>
